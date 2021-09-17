@@ -14,12 +14,12 @@ The aim of our project was to analyze the data of suicide cases in India during 
 
 ## Technologies Used
 
-* Python
-* PySpark
-* Spark
-* SparkSQL
-* Hive
-* HDFS
+* Python 2.7
+* PySpark 2.3.2
+* Spark 2.3.2
+* SparkSQL 2.3.2
+* Hive 2.1.0
+* Hadoop 2.7.3
 * Git/GitHub  
 
 ## Dataset Definition
@@ -33,6 +33,8 @@ The aim of our project was to analyze the data of suicide cases in India during 
 * case_count - Show the total cases in that particular category.
 
 ## Getting Started
+
+> All the operations below are for Windows OS
    
 * Make sure that the virtualization is enabled for your system from the BIOS.
 * Install VMware Workshation Player.
@@ -40,6 +42,10 @@ The aim of our project was to analyze the data of suicide cases in India during 
 * Get everything up and runninng.
 * Connect to the system either through the webshell/OpenSSH/PuTTY.
 * Upload all the required files into the local system or clone this repo.
+```
+git clone https://github.com/meenal-shree/Analysis-of-Suicide-Cases-in-India
+```
+> For linux, install all the dependencies and then run the project from the command-line.
 
 ## Usage
 
